@@ -1,0 +1,355 @@
+Sources            Count      %   cum%
+-------------- --------- ------ ------
+35.209.162.135        33   66.0   66.0
+34.93.149.202         16   32.0   98.0
+10.148.0.10            1    2.0  100.0
+
+Destinations        Count      %   cum%
+--------------- --------- ------ ------
+10.148.0.10            49   98.0   98.0
+213.251.128.147         1    2.0  100.0
+
+Query Type     Count      %   cum%
+---------- --------- ------ ------
+A?                22   44.0   44.0
+AAAA?             16   32.0   76.0
+PTR?              12   24.0  100.0
+
+Opcode     Count      %   cum%
+------ --------- ------ ------
+Query         50  100.0  100.0
+
+Rcode       Count      %   cum%
+------- --------- ------ ------
+Noerror        50  100.0  100.0
+
+Query Name       Count      %   cum%
+------------ --------- ------ ------
+internal            27   54.0   54.0
+in-addr.arpa        12   24.0   78.0
+com                  8   16.0   94.0
+eu                   3    6.0  100.0
+
+Query Name                         Count      %   cum%
+------------------------------ --------- ------ ------
+weighty-triode-250801.internal        18   36.0   36.0
+google.internal                        9   18.0   54.0
+googleapis.com                         8   16.0   70.0
+104.in-addr.arpa                       3    6.0   76.0
+ip-54-38-42.eu                         3    6.0   82.0
+51.in-addr.arpa                        2    4.0   86.0
+103.in-addr.arpa                       2    4.0   90.0
+145.in-addr.arpa                       2    4.0   94.0
+193.in-addr.arpa                       2    4.0   98.0
+54.in-addr.arpa                        1    2.0  100.0
+
+Query Name                           Count      %   cum%
+-------------------------------- --------- ------ ------
+c.weighty-triode-250801.internal        18   36.0   36.0
+com.google.internal                      8   16.0   52.0
+logging.googleapis.com                   8   16.0   68.0
+ip-54-38-42.eu                           3    6.0   74.0
+83.51.in-addr.arpa                       2    4.0   78.0
+137.103.in-addr.arpa                     2    4.0   82.0
+239.145.in-addr.arpa                     2    4.0   86.0
+131.104.in-addr.arpa                     2    4.0   90.0
+112.193.in-addr.arpa                     2    4.0   94.0
+223.104.in-addr.arpa                     1    2.0   96.0
+eu.google.internal                       1    2.0   98.0
+38.54.in-addr.arpa                       1    2.0  100.0
+
+Query Name                                         Count      %   cum%
+---------------------------------------------- --------- ------ ------
+googleapis.com.google.internal                         8   16.0   16.0
+com.c.weighty-triode-250801.internal                   8   16.0   32.0
+logging.googleapis.com                                 8   16.0   48.0
+us-central1-a.c.weighty-triode-250801.internal         5   10.0   58.0
+asia-south1-c.c.weighty-triode-250801.internal         4    8.0   66.0
+ip-54-38-42.eu                                         3    6.0   72.0
+77.83.51.in-addr.arpa                                  2    4.0   76.0
+184.137.103.in-addr.arpa                               2    4.0   80.0
+87.239.145.in-addr.arpa                                2    4.0   84.0
+190.131.104.in-addr.arpa                               2    4.0   88.0
+98.112.193.in-addr.arpa                                2    4.0   92.0
+197.223.104.in-addr.arpa                               1    2.0   94.0
+ip-54-38-42.eu.google.internal                         1    2.0   96.0
+eu.c.weighty-triode-250801.internal                    1    2.0   98.0
+42.38.54.in-addr.arpa                                  1    2.0  100.0
+
+Query Name                                             Count      %   cum%
+-------------------------------------------------- --------- ------ ------
+logging.googleapis.com.google.internal                     8   16.0   16.0
+googleapis.com.c.weighty-triode-250801.internal            8   16.0   32.0
+logging.googleapis.com                                     8   16.0   48.0
+com.asia-south1-c.c.weighty-triode-250801.internal         4    8.0   56.0
+com.us-central1-a.c.weighty-triode-250801.internal         4    8.0   64.0
+ip-54-38-42.eu                                             3    6.0   70.0
+224.77.83.51.in-addr.arpa                                  2    4.0   74.0
+127.184.137.103.in-addr.arpa                               2    4.0   78.0
+35.87.239.145.in-addr.arpa                                 2    4.0   82.0
+193.190.131.104.in-addr.arpa                               2    4.0   86.0
+79.98.112.193.in-addr.arpa                                 2    4.0   90.0
+240.197.223.104.in-addr.arpa                               1    2.0   92.0
+ip-54-38-42.eu.google.internal                             1    2.0   94.0
+ip-54-38-42.eu.c.weighty-triode-250801.internal            1    2.0   96.0
+eu.us-central1-a.c.weighty-triode-250801.internal          1    2.0   98.0
+63.42.38.54.in-addr.arpa                                   1    2.0  100.0
+
+Query Name                                                  Count      %   cum%
+------------------------------------------------------- --------- ------ ------
+logging.googleapis.com.google.internal                          8   16.0   16.0
+logging.googleapis.com.c.weighty-triode-250801.internal         8   16.0   32.0
+logging.googleapis.com                                          8   16.0   48.0
+googleapis.com.asia-south1-c.c.weighty-triode-250801.in         4    8.0   56.0
+googleapis.com.us-central1-a.c.weighty-triode-250801.in         4    8.0   64.0
+ip-54-38-42.eu                                                  3    6.0   70.0
+224.77.83.51.in-addr.arpa                                       2    4.0   74.0
+127.184.137.103.in-addr.arpa                                    2    4.0   78.0
+35.87.239.145.in-addr.arpa                                      2    4.0   82.0
+193.190.131.104.in-addr.arpa                                    2    4.0   86.0
+79.98.112.193.in-addr.arpa                                      2    4.0   90.0
+240.197.223.104.in-addr.arpa                                    1    2.0   92.0
+ip-54-38-42.eu.google.internal                                  1    2.0   94.0
+ip-54-38-42.eu.c.weighty-triode-250801.internal                 1    2.0   96.0
+ip-54-38-42.eu.us-central1-a.c.weighty-triode-250801.in         1    2.0   98.0
+63.42.38.54.in-addr.arpa                                        1    2.0  100.0
+
+Query Name                                                  Count      %   cum%
+------------------------------------------------------- --------- ------ ------
+logging.googleapis.com.google.internal                          8   16.0   16.0
+logging.googleapis.com.c.weighty-triode-250801.internal         8   16.0   32.0
+logging.googleapis.com                                          8   16.0   48.0
+logging.googleapis.com.asia-south1-c.c.weighty-triode-2         4    8.0   56.0
+logging.googleapis.com.us-central1-a.c.weighty-triode-2         4    8.0   64.0
+ip-54-38-42.eu                                                  3    6.0   70.0
+224.77.83.51.in-addr.arpa                                       2    4.0   74.0
+127.184.137.103.in-addr.arpa                                    2    4.0   78.0
+35.87.239.145.in-addr.arpa                                      2    4.0   82.0
+193.190.131.104.in-addr.arpa                                    2    4.0   86.0
+79.98.112.193.in-addr.arpa                                      2    4.0   90.0
+240.197.223.104.in-addr.arpa                                    1    2.0   92.0
+ip-54-38-42.eu.google.internal                                  1    2.0   94.0
+ip-54-38-42.eu.c.weighty-triode-250801.internal                 1    2.0   96.0
+ip-54-38-42.eu.us-central1-a.c.weighty-triode-250801.in         1    2.0   98.0
+63.42.38.54.in-addr.arpa                                        1    2.0  100.0
+
+Query Name                                                  Count      %   cum%
+------------------------------------------------------- --------- ------ ------
+logging.googleapis.com.google.internal                          8   16.0   16.0
+logging.googleapis.com.c.weighty-triode-250801.internal         8   16.0   32.0
+logging.googleapis.com                                          8   16.0   48.0
+logging.googleapis.com.asia-south1-c.c.weighty-triode-2         4    8.0   56.0
+logging.googleapis.com.us-central1-a.c.weighty-triode-2         4    8.0   64.0
+ip-54-38-42.eu                                                  3    6.0   70.0
+224.77.83.51.in-addr.arpa                                       2    4.0   74.0
+127.184.137.103.in-addr.arpa                                    2    4.0   78.0
+35.87.239.145.in-addr.arpa                                      2    4.0   82.0
+193.190.131.104.in-addr.arpa                                    2    4.0   86.0
+79.98.112.193.in-addr.arpa                                      2    4.0   90.0
+240.197.223.104.in-addr.arpa                                    1    2.0   92.0
+ip-54-38-42.eu.google.internal                                  1    2.0   94.0
+ip-54-38-42.eu.c.weighty-triode-250801.internal                 1    2.0   96.0
+ip-54-38-42.eu.us-central1-a.c.weighty-triode-250801.in         1    2.0   98.0
+63.42.38.54.in-addr.arpa                                        1    2.0  100.0
+
+Query Name                                                  Count      %   cum%
+------------------------------------------------------- --------- ------ ------
+logging.googleapis.com.google.internal                          8   16.0   16.0
+logging.googleapis.com.c.weighty-triode-250801.internal         8   16.0   32.0
+logging.googleapis.com                                          8   16.0   48.0
+logging.googleapis.com.asia-south1-c.c.weighty-triode-2         4    8.0   56.0
+logging.googleapis.com.us-central1-a.c.weighty-triode-2         4    8.0   64.0
+ip-54-38-42.eu                                                  3    6.0   70.0
+224.77.83.51.in-addr.arpa                                       2    4.0   74.0
+127.184.137.103.in-addr.arpa                                    2    4.0   78.0
+35.87.239.145.in-addr.arpa                                      2    4.0   82.0
+193.190.131.104.in-addr.arpa                                    2    4.0   86.0
+79.98.112.193.in-addr.arpa                                      2    4.0   90.0
+240.197.223.104.in-addr.arpa                                    1    2.0   92.0
+ip-54-38-42.eu.google.internal                                  1    2.0   94.0
+ip-54-38-42.eu.c.weighty-triode-250801.internal                 1    2.0   96.0
+ip-54-38-42.eu.us-central1-a.c.weighty-triode-250801.in         1    2.0   98.0
+63.42.38.54.in-addr.arpa                                        1    2.0  100.0
+
+Source         Query Name       Count      %   cum%
+-------------- ------------ --------- ------ ------
+35.209.162.135 internal            15   30.0   30.0
+34.93.149.202  internal            12   24.0   54.0
+35.209.162.135 in-addr.arpa        12   24.0   78.0
+34.93.149.202  com                  4    8.0   86.0
+35.209.162.135 com                  4    8.0   94.0
+35.209.162.135 eu                   2    4.0   98.0
+10.148.0.10    eu                   1    2.0  100.0
+
+Source         Query Name                         Count      %   cum%
+-------------- ------------------------------ --------- ------ ------
+35.209.162.135 weighty-triode-250801.internal        10   20.0   20.0
+34.93.149.202  weighty-triode-250801.internal         8   16.0   36.0
+35.209.162.135 google.internal                        5   10.0   46.0
+34.93.149.202  google.internal                        4    8.0   54.0
+34.93.149.202  googleapis.com                         4    8.0   62.0
+35.209.162.135 googleapis.com                         4    8.0   70.0
+35.209.162.135 104.in-addr.arpa                       3    6.0   76.0
+35.209.162.135 51.in-addr.arpa                        2    4.0   80.0
+35.209.162.135 103.in-addr.arpa                       2    4.0   84.0
+35.209.162.135 145.in-addr.arpa                       2    4.0   88.0
+35.209.162.135 193.in-addr.arpa                       2    4.0   92.0
+35.209.162.135 ip-54-38-42.eu                         2    4.0   96.0
+10.148.0.10    ip-54-38-42.eu                         1    2.0   98.0
+35.209.162.135 54.in-addr.arpa                        1    2.0  100.0
+
+Source         Query Name                           Count      %   cum%
+-------------- -------------------------------- --------- ------ ------
+35.209.162.135 c.weighty-triode-250801.internal        10   20.0   20.0
+34.93.149.202  c.weighty-triode-250801.internal         8   16.0   36.0
+34.93.149.202  com.google.internal                      4    8.0   44.0
+35.209.162.135 com.google.internal                      4    8.0   52.0
+34.93.149.202  logging.googleapis.com                   4    8.0   60.0
+35.209.162.135 logging.googleapis.com                   4    8.0   68.0
+35.209.162.135 83.51.in-addr.arpa                       2    4.0   72.0
+35.209.162.135 137.103.in-addr.arpa                     2    4.0   76.0
+35.209.162.135 239.145.in-addr.arpa                     2    4.0   80.0
+35.209.162.135 131.104.in-addr.arpa                     2    4.0   84.0
+35.209.162.135 112.193.in-addr.arpa                     2    4.0   88.0
+35.209.162.135 ip-54-38-42.eu                           2    4.0   92.0
+35.209.162.135 223.104.in-addr.arpa                     1    2.0   94.0
+35.209.162.135 eu.google.internal                       1    2.0   96.0
+10.148.0.10    ip-54-38-42.eu                           1    2.0   98.0
+35.209.162.135 38.54.in-addr.arpa                       1    2.0  100.0
+
+Source         Query Name                                   Count      %   cum%
+-------------- ---------------------------------------- --------- ------ ------
+35.209.162.135 us-central1-a.c.weighty-triode-250801.in         5   10.0   10.0
+34.93.149.202  googleapis.com.google.internal                   4    8.0   18.0
+34.93.149.202  com.c.weighty-triode-250801.internal             4    8.0   26.0
+34.93.149.202  asia-south1-c.c.weighty-triode-250801.in         4    8.0   34.0
+35.209.162.135 googleapis.com.google.internal                   4    8.0   42.0
+34.93.149.202  logging.googleapis.com                           4    8.0   50.0
+35.209.162.135 com.c.weighty-triode-250801.internal             4    8.0   58.0
+35.209.162.135 logging.googleapis.com                           4    8.0   66.0
+35.209.162.135 77.83.51.in-addr.arpa                            2    4.0   70.0
+35.209.162.135 184.137.103.in-addr.arpa                         2    4.0   74.0
+35.209.162.135 87.239.145.in-addr.arpa                          2    4.0   78.0
+35.209.162.135 190.131.104.in-addr.arpa                         2    4.0   82.0
+35.209.162.135 98.112.193.in-addr.arpa                          2    4.0   86.0
+35.209.162.135 ip-54-38-42.eu                                   2    4.0   90.0
+35.209.162.135 197.223.104.in-addr.arpa                         1    2.0   92.0
+35.209.162.135 ip-54-38-42.eu.google.internal                   1    2.0   94.0
+35.209.162.135 eu.c.weighty-triode-250801.internal              1    2.0   96.0
+10.148.0.10    ip-54-38-42.eu                                   1    2.0   98.0
+35.209.162.135 42.38.54.in-addr.arpa                            1    2.0  100.0
+
+Source         Query Name                                   Count      %   cum%
+-------------- ---------------------------------------- --------- ------ ------
+34.93.149.202  logging.googleapis.com.google.internal           4    8.0    8.0
+34.93.149.202  googleapis.com.c.weighty-triode-250801.i         4    8.0   16.0
+34.93.149.202  com.asia-south1-c.c.weighty-triode-25080         4    8.0   24.0
+35.209.162.135 logging.googleapis.com.google.internal           4    8.0   32.0
+34.93.149.202  logging.googleapis.com                           4    8.0   40.0
+35.209.162.135 googleapis.com.c.weighty-triode-250801.i         4    8.0   48.0
+35.209.162.135 com.us-central1-a.c.weighty-triode-25080         4    8.0   56.0
+35.209.162.135 logging.googleapis.com                           4    8.0   64.0
+35.209.162.135 224.77.83.51.in-addr.arpa                        2    4.0   68.0
+35.209.162.135 127.184.137.103.in-addr.arpa                     2    4.0   72.0
+35.209.162.135 35.87.239.145.in-addr.arpa                       2    4.0   76.0
+35.209.162.135 193.190.131.104.in-addr.arpa                     2    4.0   80.0
+35.209.162.135 79.98.112.193.in-addr.arpa                       2    4.0   84.0
+35.209.162.135 ip-54-38-42.eu                                   2    4.0   88.0
+35.209.162.135 240.197.223.104.in-addr.arpa                     1    2.0   90.0
+35.209.162.135 ip-54-38-42.eu.google.internal                   1    2.0   92.0
+35.209.162.135 ip-54-38-42.eu.c.weighty-triode-250801.i         1    2.0   94.0
+35.209.162.135 eu.us-central1-a.c.weighty-triode-250801         1    2.0   96.0
+10.148.0.10    ip-54-38-42.eu                                   1    2.0   98.0
+35.209.162.135 63.42.38.54.in-addr.arpa                         1    2.0  100.0
+
+Source         Query Name                                   Count      %   cum%
+-------------- ---------------------------------------- --------- ------ ------
+34.93.149.202  logging.googleapis.com.google.internal           4    8.0    8.0
+34.93.149.202  logging.googleapis.com.c.weighty-triode-         4    8.0   16.0
+34.93.149.202  googleapis.com.asia-south1-c.c.weighty-t         4    8.0   24.0
+35.209.162.135 logging.googleapis.com.google.internal           4    8.0   32.0
+34.93.149.202  logging.googleapis.com                           4    8.0   40.0
+35.209.162.135 logging.googleapis.com.c.weighty-triode-         4    8.0   48.0
+35.209.162.135 googleapis.com.us-central1-a.c.weighty-t         4    8.0   56.0
+35.209.162.135 logging.googleapis.com                           4    8.0   64.0
+35.209.162.135 224.77.83.51.in-addr.arpa                        2    4.0   68.0
+35.209.162.135 127.184.137.103.in-addr.arpa                     2    4.0   72.0
+35.209.162.135 35.87.239.145.in-addr.arpa                       2    4.0   76.0
+35.209.162.135 193.190.131.104.in-addr.arpa                     2    4.0   80.0
+35.209.162.135 79.98.112.193.in-addr.arpa                       2    4.0   84.0
+35.209.162.135 ip-54-38-42.eu                                   2    4.0   88.0
+35.209.162.135 240.197.223.104.in-addr.arpa                     1    2.0   90.0
+35.209.162.135 ip-54-38-42.eu.google.internal                   1    2.0   92.0
+35.209.162.135 ip-54-38-42.eu.c.weighty-triode-250801.i         1    2.0   94.0
+35.209.162.135 ip-54-38-42.eu.us-central1-a.c.weighty-t         1    2.0   96.0
+10.148.0.10    ip-54-38-42.eu                                   1    2.0   98.0
+35.209.162.135 63.42.38.54.in-addr.arpa                         1    2.0  100.0
+
+Source         Query Name                                   Count      %   cum%
+-------------- ---------------------------------------- --------- ------ ------
+34.93.149.202  logging.googleapis.com.google.internal           4    8.0    8.0
+34.93.149.202  logging.googleapis.com.c.weighty-triode-         4    8.0   16.0
+34.93.149.202  logging.googleapis.com.asia-south1-c.c.w         4    8.0   24.0
+35.209.162.135 logging.googleapis.com.google.internal           4    8.0   32.0
+34.93.149.202  logging.googleapis.com                           4    8.0   40.0
+35.209.162.135 logging.googleapis.com.c.weighty-triode-         4    8.0   48.0
+35.209.162.135 logging.googleapis.com.us-central1-a.c.w         4    8.0   56.0
+35.209.162.135 logging.googleapis.com                           4    8.0   64.0
+35.209.162.135 224.77.83.51.in-addr.arpa                        2    4.0   68.0
+35.209.162.135 127.184.137.103.in-addr.arpa                     2    4.0   72.0
+35.209.162.135 35.87.239.145.in-addr.arpa                       2    4.0   76.0
+35.209.162.135 193.190.131.104.in-addr.arpa                     2    4.0   80.0
+35.209.162.135 79.98.112.193.in-addr.arpa                       2    4.0   84.0
+35.209.162.135 ip-54-38-42.eu                                   2    4.0   88.0
+35.209.162.135 240.197.223.104.in-addr.arpa                     1    2.0   90.0
+35.209.162.135 ip-54-38-42.eu.google.internal                   1    2.0   92.0
+35.209.162.135 ip-54-38-42.eu.c.weighty-triode-250801.i         1    2.0   94.0
+35.209.162.135 ip-54-38-42.eu.us-central1-a.c.weighty-t         1    2.0   96.0
+10.148.0.10    ip-54-38-42.eu                                   1    2.0   98.0
+35.209.162.135 63.42.38.54.in-addr.arpa                         1    2.0  100.0
+
+Source         Query Name                                   Count      %   cum%
+-------------- ---------------------------------------- --------- ------ ------
+34.93.149.202  logging.googleapis.com.google.internal           4    8.0    8.0
+34.93.149.202  logging.googleapis.com.c.weighty-triode-         4    8.0   16.0
+34.93.149.202  logging.googleapis.com.asia-south1-c.c.w         4    8.0   24.0
+35.209.162.135 logging.googleapis.com.google.internal           4    8.0   32.0
+34.93.149.202  logging.googleapis.com                           4    8.0   40.0
+35.209.162.135 logging.googleapis.com.c.weighty-triode-         4    8.0   48.0
+35.209.162.135 logging.googleapis.com.us-central1-a.c.w         4    8.0   56.0
+35.209.162.135 logging.googleapis.com                           4    8.0   64.0
+35.209.162.135 224.77.83.51.in-addr.arpa                        2    4.0   68.0
+35.209.162.135 127.184.137.103.in-addr.arpa                     2    4.0   72.0
+35.209.162.135 35.87.239.145.in-addr.arpa                       2    4.0   76.0
+35.209.162.135 193.190.131.104.in-addr.arpa                     2    4.0   80.0
+35.209.162.135 79.98.112.193.in-addr.arpa                       2    4.0   84.0
+35.209.162.135 ip-54-38-42.eu                                   2    4.0   88.0
+35.209.162.135 240.197.223.104.in-addr.arpa                     1    2.0   90.0
+35.209.162.135 ip-54-38-42.eu.google.internal                   1    2.0   92.0
+35.209.162.135 ip-54-38-42.eu.c.weighty-triode-250801.i         1    2.0   94.0
+35.209.162.135 ip-54-38-42.eu.us-central1-a.c.weighty-t         1    2.0   96.0
+10.148.0.10    ip-54-38-42.eu                                   1    2.0   98.0
+35.209.162.135 63.42.38.54.in-addr.arpa                         1    2.0  100.0
+
+Source         Query Name                                   Count      %   cum%
+-------------- ---------------------------------------- --------- ------ ------
+34.93.149.202  logging.googleapis.com.google.internal           4    8.0    8.0
+34.93.149.202  logging.googleapis.com.c.weighty-triode-         4    8.0   16.0
+34.93.149.202  logging.googleapis.com.asia-south1-c.c.w         4    8.0   24.0
+35.209.162.135 logging.googleapis.com.google.internal           4    8.0   32.0
+34.93.149.202  logging.googleapis.com                           4    8.0   40.0
+35.209.162.135 logging.googleapis.com.c.weighty-triode-         4    8.0   48.0
+35.209.162.135 logging.googleapis.com.us-central1-a.c.w         4    8.0   56.0
+35.209.162.135 logging.googleapis.com                           4    8.0   64.0
+35.209.162.135 224.77.83.51.in-addr.arpa                        2    4.0   68.0
+35.209.162.135 127.184.137.103.in-addr.arpa                     2    4.0   72.0
+35.209.162.135 35.87.239.145.in-addr.arpa                       2    4.0   76.0
+35.209.162.135 193.190.131.104.in-addr.arpa                     2    4.0   80.0
+35.209.162.135 79.98.112.193.in-addr.arpa                       2    4.0   84.0
+35.209.162.135 ip-54-38-42.eu                                   2    4.0   88.0
+35.209.162.135 240.197.223.104.in-addr.arpa                     1    2.0   90.0
+35.209.162.135 ip-54-38-42.eu.google.internal                   1    2.0   92.0
+35.209.162.135 ip-54-38-42.eu.c.weighty-triode-250801.i         1    2.0   94.0
+35.209.162.135 ip-54-38-42.eu.us-central1-a.c.weighty-t         1    2.0   96.0
+10.148.0.10    ip-54-38-42.eu                                   1    2.0   98.0
+35.209.162.135 63.42.38.54.in-addr.arpa                         1    2.0  100.0
